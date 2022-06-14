@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: rgb(177, 202, 245);
+}
+h1 {
+  font-weight: 700;
+}
+.container {
+  margin: 100px auto;
+  text-align: center;
+}
+#guess-input {
+  margin-top: 20px;
+  width: 200px;
+}
+#guess-btn {
+  background-color: darkblue;
+  color: aliceblue;
+}
